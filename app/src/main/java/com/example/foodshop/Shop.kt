@@ -71,7 +71,7 @@ class Shop : AppCompatActivity() {
                 error = true
                }
             if (error || productName.isEmpty()) {
-                Toast.makeText(this,"Плохие данные, совсем плохие!", Toast.LENGTH_LONG)
+                Toast.makeText(this,"Плохие данные, совсем плохие!", Toast.LENGTH_LONG).show()
                 return@setOnClickListener
             }
             products.add(Product(productName, productPrice, productImage))
