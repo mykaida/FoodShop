@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodShop</string>
+    <string name="food_shop">Продуктовый магазин</string>
+    <string name="creat_shop">Создать магазин</string>
+    <string name="exit">Выход</string>
+    <string name="product_name">Название продукта</string>
+    <string name="product_price">Цена продукта</string>
+    <string name="product_add">Добавить продукт</string>
+    <string name="exit_input">Выход</string>
+</resources>
